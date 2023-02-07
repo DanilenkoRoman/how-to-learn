@@ -1,0 +1,5 @@
+.header__subtitle-link:hover {
+    text-decoration: none;
+    color: #009460;
+    transition: all 0.6s linear;
+}
