@@ -15,3 +15,6 @@
 
 ## Планы по доработке
 * Адаптировать сайт для просмотра на разных устройствах
+
+## URL
+* https://github.com/DanilenkoRoman/how-to-learn
